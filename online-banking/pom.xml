@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>online-banking Maven Webapp</name>
-	<description>Sample web project</description>
+	<description>Sample web project for online banking</description>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
